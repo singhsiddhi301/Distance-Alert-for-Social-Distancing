@@ -1,0 +1,2 @@
+# Distance-Alert-for-Social-Distancing
+Since none of us are used to these times and so happen to forget at times that we are supposed to maintain a safe distance from people, the device might prove to be pretty useful to alert us when a person unknowingly approaches us. Overall, as individuals, we need to start adapting social distancing more and this is exactly what this device promotes through its visual and audio aids via the buzzer and LED.
